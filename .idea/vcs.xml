@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myClass" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../JavaSE_Code" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../JavaSE_Code/myClass" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../JavaSE_Code/myClass/src/com/study_01" vcs="Git" />
   </component>
 </project>

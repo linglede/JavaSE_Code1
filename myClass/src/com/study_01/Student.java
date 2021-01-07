@@ -26,6 +26,7 @@ public class Student {
     }
 
     //成员方法
+
     public void study(){
         System.out.println("好好学习，天天向上");
     }
