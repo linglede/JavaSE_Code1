@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/myCharStream/myCharStream.iml" filepath="$PROJECT_DIR$/myCharStream/myCharStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myOtherStream/myOtherStream.iml" filepath="$PROJECT_DIR$/../myOtherStream/myOtherStream.iml" />
     </modules>
   </component>
 </project>
