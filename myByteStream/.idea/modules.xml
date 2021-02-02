@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../myOtherStream/myOtherStream.iml" filepath="$PROJECT_DIR$/../myOtherStream/myOtherStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myReflect/myReflect.iml" filepath="$PROJECT_DIR$/../myReflect/myReflect.iml" />
     </modules>
   </component>
 </project>
