@@ -2,148 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4af69ee-2d36-41e7-b2fc-cee2b84bb67d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myFunctionInterface/src/com/study01/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myFunctionInterface/src/com/study01/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myFunctionInterface/src/com/study02/ComparatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myFunctionInterface/src/com/study02/Runnabledemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myFunctionInterface/src/com/study03/SupplierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myFunctionInterface/src/com/study03/SupplierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myFunctionInterface/src/com/study04/ConsumerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myFunctionInterface/src/com/study04/ConsumerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myFunctionInterface/src/com/study05/PredicateDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myFunctionInterface/src/com/study05/PredicateDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myFunctionInterface/src/com/study05/PredicateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myFunctionInterface/src/com/study06/FunctionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myFunctionInterface/src/com/study06/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myInterface1/myInterface1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myInterface1/src/com/study01/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myInterface1/src/com/study01/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myInterface1/src/com/study01/MyInterface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myInterface1/src/com/study01/MyInterfaceImpl1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myInterface1/src/com/study01/MyInterfaceSon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myInterface1/src/com/study02/Inter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myInterface1/src/com/study02/InterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myInterface1/src/com/study02/InterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myInterface1/src/com/study03/Inter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myInterface1/src/com/study03/InterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myInterface1/src/com/study03/InterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myLambda/myLambda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myLambda/src/com/study01/LambdaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myLambda/src/com/study01/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myLambda/src/com/study02/Eatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myLambda/src/com/study02/EatableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myLambda/src/com/study02/EatableImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myLambda/src/com/study03/Addable1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myLambda/src/com/study03/AddableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myMethodReference/myMethodReference.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myMethodReference/src/com/study01/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myMethodReference/src/com/study01/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myMethodReference/src/com/study02/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myMethodReference/src/com/study02/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myMethodReference/src/com/study03/Convert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myMethodReference/src/com/study03/ConvertDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myMethodReference/src/com/study04/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myMethodReference/src/com/study04/PrintString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myMethodReference/src/com/study04/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myMethodReference/src/com/study05/MyString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myMethodReference/src/com/study05/MyStringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myMethodReference/src/com/study06/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myMethodReference/src/com/study06/StudentBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myMethodReference/src/com/study06/StudentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myNet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myNet/InterAdderssDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myNet/src/com/study01/InterAdderssDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myNet/src/com/study02/ReceiveDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myNet/src/com/study02/SendDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myNet/src/com/study03/ReceiveDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myNet/src/com/study03/SendDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myNet/src/com/study04/ClientDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myNet/src/com/study04/ServerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myNet/src/com/study05/ClientDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myNet/src/com/study05/ServerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myNet/src/com/study06/ClientDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myNet/src/com/study06/ServerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myNet/src/com/study06/ServerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myOtherStream/game.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myOtherStream/src/com/study02/ObjectInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myOtherStream/src/com/study02/ObjectOutputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myOtherStream/src/com/study02/ObjectStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myOtherStream/src/com/study02/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myOtherStream/src/com/study03/GuessNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myOtherStream/src/com/study03/PropertiesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myOtherStream/src/com/study03/PropertiesDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myOtherStream/src/com/study03/PropertiesDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myOtherStream/src/com/study03/PropertiesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myReflect/myReflect.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myReflect/src/com/study01/ClassLoaderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myStream/myStream.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myStream/src/com/study01/StreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myStream/src/com/study02/StreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myStream/src/com/study02/StreamDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myStream/src/com/study02/StreamDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myStream/src/com/study02/StreamDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myStream/src/com/study02/StreamDemo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myStream/src/com/study02/StreamDemo05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myStream/src/com/study03/StreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myStream/src/com/study04/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myStream/src/com/study04/StreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myStream/src/com/study05/CollectDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/myThread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study01/MyThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study01/Mythread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study02/ThreadPriority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study02/ThreadPriorityDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study03/ThreadDaemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study03/ThreadDaemonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study03/ThreadJoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study03/ThreadJoinDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study03/ThreadSleep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study03/ThreadSleepDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study04/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study04/MyRunnableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study05/SellTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study05/SellTicketDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study06/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study06/BoxDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study06/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myThread/src/com/study06/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myReflect/class.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myReflect/src/com/study02/ReflectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myReflect/src/com/study02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myReflect/src/com/study03/ReflectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myReflect/src/com/study03/ReflectDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myReflect/src/com/study03/ReflectDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myReflect/src/com/study04/ReflectDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myReflect/src/com/study04/ReflectDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myReflect/src/com/study05/ReflectDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myReflect/src/com/study05/ReflectDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myReflect/src/com/study05/ReflectDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myReflect/src/com/study05/ReflectDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myReflect/src/com/study05/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myReflect/src/com/study05/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fos.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myByteStream.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../myFunctionInterface/myFunctionInterface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/ConversionStreamDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/Copy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/array.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/bw.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/copy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/myCharStream.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/name.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/sow.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study01/FileInputStreamDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study01/StringDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study02/ConversionStreamDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study02/InputStreamReaderDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study02/OutputStreamWriterDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study03/CopyJavaDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study04/BufferedStreamDemo01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study04/BufferedStreamDemo02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study04/CopyJavaDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study04/CopyJavaDemo02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study05/ArrayListToTxtDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study05/CallNameDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study05/TxtToArrayListDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study06/ArrayListToFileDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study06/FileToArrayListDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study06/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study07/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study07/TreeSetToFileDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study08/CopyFolderDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCharStream/src/com/study08/CopyFoldersDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myOtherStream/com/study01/PrintStreamDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myOtherStream/com/study01/PrintWriterDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myOtherStream/com/study01/SystemInDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myOtherStream/com/study01/SystemOutDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myReflect/com/study01/ClassLoaderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myReflect/com/study01/ClassLoaderDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../笔记.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../笔记.docx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -156,11 +30,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ClassLoaderDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study01/ClassLoaderDemo.java">
+      <file leaf-file-name="Teacher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study05/Teacher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="76">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+              <folding>
+                <element signature="e#68#69#0" expanded="true" />
+                <element signature="e#104#105#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReflectDemo04.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study05/ReflectDemo04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../myReflect/class.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study05/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+              <folding>
+                <element signature="e#68#69#0" expanded="true" />
+                <element signature="e#104#105#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -181,20 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../myLambda/src/com/study03/AddableDemo.java" />
-        <option value="$PROJECT_DIR$/../myInterface1/src/com/study01/MyInterface2.java" />
-        <option value="$PROJECT_DIR$/../myInterface1/src/com/study01/MyInterfaceSon.java" />
-        <option value="$PROJECT_DIR$/../myInterface1/src/com/study01/MyInterface.java" />
-        <option value="$PROJECT_DIR$/../myInterface1/src/com/study01/MyInterfaceImpl1.java" />
-        <option value="$PROJECT_DIR$/../myInterface1/src/com/study01/Demo.java" />
-        <option value="$PROJECT_DIR$/../myInterface1/src/com/study02/Inter.java" />
-        <option value="$PROJECT_DIR$/../myInterface1/src/com/study02/InterImpl.java" />
-        <option value="$PROJECT_DIR$/../myInterface1/src/com/study02/InterDemo.java" />
-        <option value="$PROJECT_DIR$/../myInterface1/src/com/study03/InterImpl.java" />
-        <option value="$PROJECT_DIR$/../myInterface1/src/com/study03/InterDemo.java" />
-        <option value="$PROJECT_DIR$/../myInterface1/src/com/study03/Inter.java" />
-        <option value="$PROJECT_DIR$/../myMethodReference/src/com/study01/Printable.java" />
-        <option value="$PROJECT_DIR$/../myMethodReference/src/com/study01/Demo.java" />
         <option value="$PROJECT_DIR$/../myMethodReference/src/com/study02/Demo.java" />
         <option value="$PROJECT_DIR$/../myMethodReference/src/com/study02/Printable.java" />
         <option value="$PROJECT_DIR$/../myMethodReference/src/com/study03/Convert.java" />
@@ -232,6 +127,20 @@
         <option value="$PROJECT_DIR$/../myStream/src/com/study04/StreamTest.java" />
         <option value="$PROJECT_DIR$/../myStream/src/com/study05/CollectDemo.java" />
         <option value="$PROJECT_DIR$/../myReflect/src/com/study01/ClassLoaderDemo.java" />
+        <option value="$PROJECT_DIR$/../myReflect/src/com/study02/ReflectDemo.java" />
+        <option value="$PROJECT_DIR$/../myReflect/src/com/study03/ReflectDemo.java" />
+        <option value="$PROJECT_DIR$/../myReflect/src/com/study03/ReflectDemo02.java" />
+        <option value="$PROJECT_DIR$/../myReflect/src/com/study03/ReflectDemo03.java" />
+        <option value="$PROJECT_DIR$/../myReflect/src/com/study04/ReflectDemo01.java" />
+        <option value="$PROJECT_DIR$/../myReflect/src/com/study04/ReflectDemo02.java" />
+        <option value="$PROJECT_DIR$/../myReflect/src/com/study05/ReflectDemo01.java" />
+        <option value="$PROJECT_DIR$/../myReflect/src/com/study02/Student.java" />
+        <option value="$PROJECT_DIR$/../myReflect/src/com/study05/ReflectDemo02.java" />
+        <option value="$PROJECT_DIR$/../myReflect/src/com/study05/ReflectDemo03.java" />
+        <option value="$PROJECT_DIR$/../myReflect/src/com/study05/Student.java" />
+        <option value="$PROJECT_DIR$/../myReflect/src/com/study05/Teacher.java" />
+        <option value="$PROJECT_DIR$/../myReflect/class.txt" />
+        <option value="$PROJECT_DIR$/../myReflect/src/com/study05/ReflectDemo04.java" />
       </list>
     </option>
   </component>
@@ -246,7 +155,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
-    <option name="width" value="1854" />
+    <option name="width" value="1855" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -257,7 +166,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -275,13 +184,27 @@
               <item name="myByteStream" type="b2602c69:ProjectViewProjectNode" />
               <item name="myReflect" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="study01" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myByteStream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myReflect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="study02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myByteStream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myReflect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="study05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,17 +216,18 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.study06" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaSE_Code\myNet" />
+      <recent name="D:\JavaSE_Code\myByteStream\myCharStream" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.study05" />
       <recent name="com.study02" />
       <recent name="com.study03" />
       <recent name="com.study06" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\JavaSE_Code\myNet" />
-      <recent name="D:\JavaSE_Code\myByteStream\myCharStream" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.study06" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -318,13 +242,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CollectDemo">
-    <configuration name="CollectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8 (1)" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.study01.ClassLoaderDemo" />
+  <component name="RunManager" selected="Application.ReflectDemo04">
+    <configuration name="ReflectDemo01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study05.ReflectDemo01" />
       <module name="myReflect" />
-      <option name="WORKING_DIRECTORY" value="file://$MAVEN_REPOSITORY$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.study05.*" />
@@ -332,46 +254,46 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study03.StreamDemo" />
-      <module name="myStream" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.study03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StreamDemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study02.StreamDemo04" />
-      <module name="myStream" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.study02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StreamDemo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study02.StreamDemo05" />
-      <module name="myStream" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.study02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study04.StreamTest" />
-      <module name="myStream" />
+    <configuration name="ReflectDemo02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study04.ReflectDemo02" />
+      <module name="myReflect" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.study04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ReflectDemo02 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study05.ReflectDemo02" />
+      <module name="myReflect" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ReflectDemo03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study05.ReflectDemo03" />
+      <module name="myReflect" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ReflectDemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study05.ReflectDemo04" />
+      <module name="myReflect" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -428,19 +350,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StreamDemo04" />
-      <item itemvalue="Application.StreamDemo05" />
-      <item itemvalue="Application.StreamDemo" />
-      <item itemvalue="Application.StreamTest" />
-      <item itemvalue="Application.CollectDemo" />
+      <item itemvalue="Application.ReflectDemo02 (1)" />
+      <item itemvalue="Application.ReflectDemo01 (1)" />
+      <item itemvalue="Application.ReflectDemo02 (2)" />
+      <item itemvalue="Application.ReflectDemo03 (1)" />
+      <item itemvalue="Application.ReflectDemo04" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CollectDemo" />
-        <item itemvalue="Application.StreamTest" />
-        <item itemvalue="Application.StreamDemo" />
-        <item itemvalue="Application.StreamDemo05" />
-        <item itemvalue="Application.StreamDemo04" />
+        <item itemvalue="Application.ReflectDemo04" />
+        <item itemvalue="Application.ReflectDemo03 (1)" />
+        <item itemvalue="Application.ReflectDemo02 (2)" />
+        <item itemvalue="Application.ReflectDemo01 (1)" />
+        <item itemvalue="Application.ReflectDemo02 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -459,14 +381,15 @@
       <workItem from="1611988231478" duration="9783000" />
       <workItem from="1612058629976" duration="12500000" />
       <workItem from="1612229116400" duration="33427000" />
+      <workItem from="1612319932202" duration="7716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72341000" />
+    <option name="totallyTimeSpent" value="80057000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1483" height="832" extended-state="0" />
+    <frame x="-8" y="0" width="1484" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
@@ -479,11 +402,11 @@
       <window_info anchor="right" id="Maven Projects" order="1" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="right" id="Run" order="9" weight="0.35929826" />
+      <window_info anchor="right" id="Run" order="9" weight="0.3106592" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32952926" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.10807017" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.10939691" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="5" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info id="Alibaba Cloud Explorer" order="4" weight="0.3297244" />
@@ -513,142 +436,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../myInterface1/src/com/study01/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../myInterface1/src/com/study01/MyInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../myInterface1/src/com/study01/MyInterfaceSon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../myInterface1/src/com/study01/MyInterfaceImpl1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../myInterface1/src/com/study01/MyInterface2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../myInterface1/src/com/study02/Inter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../myInterface1/src/com/study02/InterImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-          <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../myInterface1/src/com/study02/InterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../myInterface1/src/com/study03/Inter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../myInterface1/src/com/study03/InterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../myInterface1/src/com/study03/InterImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../myMethodReference/src/com/study01/Printable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../myMethodReference/src/com/study01/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../myMethodReference/src/com/study02/Printable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../myMethodReference/src/com/study02/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -670,10 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -723,15 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -760,12 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -773,9 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -783,10 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -794,10 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -805,10 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -823,10 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -841,9 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -865,9 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -896,9 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="25" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -927,13 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -941,9 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="21" column="29" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="21" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -951,16 +685,146 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
           <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study01/ClassLoaderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study02/ReflectDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study03/ReflectDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study01/ClassLoaderDemo.java">
+    <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study03/ReflectDemo03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="342">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study03/ReflectDemo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study04/ReflectDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study04/ReflectDemo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study05/ReflectDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study05/ReflectDemo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study05/ReflectDemo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study02/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study05/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study05/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myReflect/class.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myReflect/src/com/study05/ReflectDemo04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
         </state>
       </provider>
     </entry>
